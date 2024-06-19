@@ -1,2 +1,2 @@
 # fake_fingerprint_detection_system
-replace the content in "< >"
+replace the content in "< >" with the path
